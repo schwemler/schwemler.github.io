@@ -28,9 +28,12 @@
 				<category><![CDATA[Без рубрики]]></category>
 
 		<guid isPermaLink="false">/?p=1</guid>
-				<description><![CDATA[Добро пожаловать в WordPress. Это ваша первая запись. Отредактируйте или удалите ее, затем начинайте создавать!]]></description>
+				<description><![CDATA[<p>Добро пожаловать в WordPress. Это ваша первая запись. Отредактируйте или удалите ее, затем начинайте создавать!</p>
+<p>The post <a rel="nofollow" href="/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/">Привет, мир!</a> appeared first on <a rel="nofollow" href="/">Autoservice Schwemler</a>.</p>
+]]></description>
 								<content:encoded><![CDATA[
 <p>Добро пожаловать в WordPress. Это ваша первая запись. Отредактируйте или удалите ее, затем начинайте создавать!</p>
+<p>The post <a rel="nofollow" href="/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/">Привет, мир!</a> appeared first on <a rel="nofollow" href="/">Autoservice Schwemler</a>.</p>
 ]]></content:encoded>
 							<wfw:commentRss>/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
