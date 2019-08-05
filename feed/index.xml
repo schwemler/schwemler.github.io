@@ -11,13 +11,21 @@
 	<title>Autoservice Schwemler</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Meisterwerkstatt in Hünfeld</description>
-	<lastBuildDate>2019-08-01 16:29:16</lastBuildDate>
-	<language>en-US</language>
+	<description>Autoreparatur aller Art zum günstigen Preis</description>
+	<lastBuildDate>2019-08-01 12:05:25</lastBuildDate>
+	<language>de-DE</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/favicon-1-150x150.png</url>
+	<title>Autoservice Schwemler</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
